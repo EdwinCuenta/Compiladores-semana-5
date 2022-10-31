@@ -1,0 +1,15 @@
+inicio ;
+cadena var1 # "hola" ;
+entero var5 # 23 ;
+
+proceso ;
+si ( 23 == var5 )
+{
+ver "Analizador lexico, sintactico, semantico" ;
+}
+
+si ( var1 == "hola" )
+{
+ver "COMPILADOR" ;
+}
+fin ;
